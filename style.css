@@ -1,0 +1,20 @@
+input{
+    height: 10em;
+    width: 15em;
+    border: white;
+    background-color: wheat;
+    margin-bottom: 10px;
+}
+
+.number{ 
+    width: 15em;
+
+}
+
+#clear{
+    width: 12em;
+    
+}
+
+
+
